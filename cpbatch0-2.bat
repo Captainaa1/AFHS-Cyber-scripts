@@ -7,8 +7,6 @@ echo if you didnt run this script with admin privleges please close and restart 
 pause
 echo if a error appears and the script doesn't work abandon the script close it and continue mannualy
 pause
-echo again this script has never been fully tested use at your own risk
-pause
 echo the script will now execute are you ready?
 pause
 
